@@ -1,4 +1,4 @@
-# Unstoppable Wallet
+# metabit wallet
 
 We dream of a world… A world where private property is untouchable and market access is unconditional.
 
